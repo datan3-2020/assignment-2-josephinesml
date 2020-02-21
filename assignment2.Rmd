@@ -19,6 +19,8 @@ In this assignment you will work with relational data, i.e. data coming from dif
 
 ## Read data
 
+Test.
+
 We will work with three different tables: household roster from wave 8 (*h_egoalt*), stable characteristics of individuals (*xwavedat*), and household data from wave 8 (*h_hhresp*).
 
 ```{r}
